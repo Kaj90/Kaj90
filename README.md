@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kaj90
-- 👀 I’m interested in learning to code, mostly python at the moment
-- 🌱 I’m currently studying data science on CodeCademy
+- Hi, I’m @Kaj90
+- I’m currently studying data science on CodeCademy. The Data Science foundations I completed outside of the codecademy environment have been uploaded here. So far the Machine Learning projects have been within the CodeCademy environment so I have not been able to post them here.
+
 - 📫 How to reach me kaj.nieman@gmail.com
 
 <!---
